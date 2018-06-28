@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@android:color/holo_green_light"
-        android:text="Hello Android!"
+        android:text="Hello"
         android:textColor="@android:color/white"
         android:textSize="40dp" />
 
